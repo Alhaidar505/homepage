@@ -4,22 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Laravel</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f0f0f0;
-            text-align: center;
-            padding: 50px;
-        }
-
-        .container {
-            background: white;
-            padding: 40px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            display: inline-block;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
