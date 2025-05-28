@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Al haidar Fataa</h1>
+        <h1>Study Kasus Hosting</h1>
     </div>
 
     <td>
@@ -15,6 +15,6 @@
             <a href="/halaman">pencet</a>
         </tr>
     </td>
-    
+
 </body>
 </html>
