@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>halaman baru</h1>
-    <p>Selamat datang di halaman baru!</p>
+    <p>Selamat datang di halaman</p>
     <td>
         <tr>
             <a href="/home">pencet</a>
