@@ -9,5 +9,12 @@
     <div class="container">
         <h1>Al haidar Fataa</h1>
     </div>
+
+    <td>
+        <tr>
+            <a href="/halaman">pencet</a>
+        </tr>
+    </td>
+    
 </body>
 </html>
